@@ -5,7 +5,7 @@
 ### Coding projects:  
 | Name | Description | Link |
 | ----------- | ----------- | ----------- |
-| Coming soon | Something cool | |
+| Rubik's table | 2D version of the 2x2 Rubik's cube made for Console | https://github.com/bjornpetersson1/Rubiks-table.git |
 | Coming later | Something even cooler  | |  
   
   
