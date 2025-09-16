@@ -3,10 +3,10 @@
   
 
 ### Coding projects:  
-| Name | Description | Link |
-| ----------- | ----------- | ----------- |
-| Rubik's table | 2D version of the 2x2 Rubik's cube made for Console | https://github.com/bjornpetersson1/Rubiks-table.git |
-| Coming later | Something even cooler  | |  
+| Name | Description | Link | Made for |  
+| ----------- | ----------- | ----------- |  ----------- |  
+| MicroTonalBeepSynth | A microtonal synth based around the Console.Beep-command  | https://github.com/bjornpetersson1/MicroTonalBeepSynth.git | Console |
+| Rubik's table | 2D version of the 2x2 Rubik's cube | https://github.com/bjornpetersson1/Rubiks-table.git | Console |
   
   
     
