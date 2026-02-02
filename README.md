@@ -5,7 +5,7 @@
 ### Coding projects:  
 | Name | Description | Link to repo | Made for |  
 | ----------- | ----------- | ----------- |  ----------- |  
-| KillTheRatKing2.0 | *Now talking to MongoDB and with alot of new features!* | [KillTheRatKing2.0](https://github.com/bjornpetersson1/KillTheRatKing2.0_SchoolAssignment.git) | Console | 
+| KillTheRatKing2.0 | *"Now talking to MongoDB and with alot of new features!"* | [KillTheRatKing2.0](https://github.com/bjornpetersson1/KillTheRatKing2.0_SchoolAssignment.git) | Console | 
 | WhatEverWorksForYou | An app to track your runs based on your perceived effort and experience (school assignment) | [WhatEverWorksForYou](https://github.com/bjornpetersson1/WEWFY_ScoolAssignment.git) | WPF 
 | QuizConstructor | An app for constructing and playing quizrounds (school assignment) | [QuizConstructor](https://github.com/bjornpetersson1/QuizConstructor_SchoolAssignment.git) | WPF |
 | KillTheRatking | A turnbased dungeon crawler game (school assignment) | [KillTheRatking](https://github.com/bjornpetersson1/KillTheRatking_SchoolAssignment.git) | Console |
